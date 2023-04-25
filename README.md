@@ -77,7 +77,7 @@ Los requisitos de esta aplicación son:
 
 ### Instalacion
 
-1. Descargar la carpeta FernanBnB.
+1. Descargar la carpeta FernanBnB y el archivo FernaBnB.bat
 2. Ejecutamos el archivo "FernaBnB" de modo normal.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
